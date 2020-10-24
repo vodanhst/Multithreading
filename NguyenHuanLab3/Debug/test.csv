@@ -1,0 +1,92 @@
+
+ using 1 of threads
+0.0089 ms 
+0.1597 ms 
+2.0094 ms 
+26.852 ms 
+134.721 ms 
+4155.84 ms 
+
+
+ using 2 of threads
+0.7102 ms 
+0.0572 ms 
+0.5801 ms 
+4.7041 ms 
+67.1179 ms 
+3240.37 ms 
+
+
+
+
+ using 4 of threads
+0.681 ms 
+0.74 ms 
+0.5486 ms 
+3.8466 ms 
+75.2281 ms 
+2746.58 ms 
+
+
+
+
+
+
+ using 6 of threads
+1.1145 ms 
+0.6654 ms 
+0.3371 ms 
+3.0629 ms 
+78.3246 ms 
+1771.39 ms 
+
+
+
+
+
+
+
+
+ using 8 of threads
+0.9837 ms 
+1.1448 ms 
+0.3804 ms 
+3.1418 ms 
+74.6775 ms 
+1790.83 ms 
+
+
+
+
+
+
+
+
+
+
+ using 10 of threads
+1.2803 ms 
+1.3228 ms 
+0.3609 ms 
+3.8517 ms 
+82.5578 ms 
+1756.41 ms 
+
+
+
+
+
+
+
+
+
+
+
+
+ using 12 of threads
+1.1558 ms 
+1.3724 ms 
+0.6522 ms 
+3.3811 ms 
+83.3976 ms 
+1702.81 ms 

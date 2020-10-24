@@ -1,0 +1,4 @@
+﻿  NguyenHuanLab3.cpp
+C:\Users\nguye\source\repos\NguyenHuanLab3\NguyenHuanLab3\NguyenHuanLab3.cpp(39,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\source\repos\NguyenHuanLab3\NguyenHuanLab3\NguyenHuanLab3.cpp(64): warning C4715: 'SORT_RECURSIVE': not all control paths return a value
+  NguyenHuanLab3.vcxproj -> C:\Users\nguye\source\repos\NguyenHuanLab3\Debug\NguyenHuanLab3.exe
